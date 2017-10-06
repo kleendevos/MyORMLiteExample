@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyORMLiteExample</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_add">add name to Database</string>
+    <string name="add">add Data</string>
+    <string name="Delete_data">Delete ALL data</string>
+
+
+
+</resources>
